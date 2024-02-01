@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @w3prem
-- 👀 I’m interested in working with crazy Starups
+- 👀 I’m interested in working with crazy Startups
 - 🌱 I’m currently learning Tailwind
 - 💞️ I’m looking to collaborate on cool startup Ideas
 
